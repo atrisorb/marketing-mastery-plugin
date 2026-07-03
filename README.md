@@ -1,10 +1,10 @@
-# 🤖 Marketing Mastery Plugin
+# <img src="https://api.iconify.design/lucide:bot.svg?color=%232563eb" width="32" align="top"> Marketing Mastery Plugin
 
 An advanced marketing strategy suite for Claude Code. This plugin installs a comprehensive set of 18 professional AI skills spanning **B2B / industrial marketing**, **innovation marketing**, and **digital-era marketing** (SaaS, HaaS, on-premise, cloud, APIs, platforms), plus the cross-cutting strategy, mix, metrics, and sustainability toolkit. 
 
 Built to make any agent that uses them a competent, applied marketing strategist for real brands — nascent or established.
 
-## 🧠 How the suite is meant to be used
+## <img src="https://api.iconify.design/lucide:git-merge.svg?color=%232563eb" width="26" align="top"> How the suite is meant to be used
 
 Start with **`brand-lifecycle-diagnostic`** — it reads where a brand is in its life (pre-launch → introduction → growth → maturity → decline → revitalization), separates the *stage* from the fixable *disease*, and routes you to the right skills for that stage. 
 
@@ -37,7 +37,7 @@ From there the skills chain naturally: analysis → strategy → mix → launch/
 
 ---
 
-## 🧰 The 18 Skills
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%232563eb" width="26" align="top"> The 18 Skills
 
 ### Tier 0 — Diagnostic & orchestration
 | Skill | What it does |
@@ -91,7 +91,7 @@ From there the skills chain naturally: analysis → strategy → mix → launch/
 
 ---
 
-## ⚙️ Installation
+## <img src="https://api.iconify.design/lucide:settings.svg?color=%232563eb" width="26" align="top"> Installation
 
 To use this plugin, you must have the Claude Code CLI installed. You can install it directly from GitHub or by cloning the repository locally.
 
@@ -120,10 +120,10 @@ To remove the plugin later (this process is fully reversible), run:
 
 ---
 
-## 📚 Provenance & Frameworks
+## <img src="https://api.iconify.design/lucide:library.svg?color=%232563eb" width="26" align="top"> Provenance & Frameworks
 
 Grounded in university course lectures (Marketing B2B, Segmentation, Buying Process & Product, Distribution, Pricing, Communication, Business & Marketing Plan, Marketing of Innovation, Circular Economy) and cross-checked against academic and practitioner literature on industrial marketing, innovation diffusion (Rogers, Bass, Moore, Christensen), digital/SaaS business models and metrics, servitization, and distribution strategies. 
 
-## 📄 License
+## <img src="https://api.iconify.design/lucide:file-text.svg?color=%232563eb" width="26" align="top"> License
 
 This project is open-source and licensed under the **MIT License**. See the `LICENSE` file for details.
