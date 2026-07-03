@@ -1,0 +1,51 @@
+# ========================================
+# Claude Code Plugin & Local State
+# ========================================
+# Ignore all contents of the plugin folder (cache, local logs, state)
+.claude-plugin/*
+
+# FORCE Git to strictly track only the marketplace manifest file
+!.claude-plugin/marketplace.json
+
+# ========================================
+# Operating System (Mac / Windows)
+# ========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ========================================
+# Log Files
+# ========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========================================
+# IDE and Text Editors (VS Code, JetBrains, etc.)
+# ========================================
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ========================================
+# Dependencies
+# ========================================
+node_modules/
+jspm_packages/
