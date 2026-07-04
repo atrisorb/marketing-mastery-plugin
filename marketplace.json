@@ -1,0 +1,19 @@
+{
+  "name": "marketing-mastery",
+  "owner": {
+    "name": "atrisorb",
+    "email": "adrianosorbello30@gmail.com"
+  },
+  "metadata": {
+    "description": "Local marketplace hosting the Marketing Mastery Suite plugin.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "marketing-mastery",
+      "source": ".",
+      "description": "18-skill professional marketing suite: B2B/industrial, innovation diffusion, and digital-era (SaaS/HaaS/cloud/API) marketing, plus strategy, mix, metrics, and circular-economy toolkits.",
+      "version": "1.0.0"
+    }
+  ]
+}

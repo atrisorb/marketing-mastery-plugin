@@ -1,0 +1,22 @@
+{
+  "name": "marketing-mastery",
+  "version": "1.0.0",
+  "description": "A professional 18-skill marketing suite covering B2B/industrial marketing, innovation diffusion and adoption, and digital-era business models (SaaS, HaaS, on-premise, cloud, APIs), plus cross-cutting strategy (SWOT/TOWS, Porter, STP, value proposition), the marketing mix (pricing, distribution, communication), metrics/KPIs, acquisition/retention, circular-economy marketing, and an integrating marketing-plan builder. Start with brand-lifecycle-diagnostic to route by the brand's life stage.",
+  "author": {
+    "name": "atrisorb",
+    "email": "adrianosorbello30@gmail.com"
+  },
+  "keywords": [
+    "marketing",
+    "b2b",
+    "innovation",
+    "diffusion",
+    "saas",
+    "pricing",
+    "segmentation",
+    "positioning",
+    "go-to-market",
+    "circular-economy"
+  ],
+  "license": "MIT"
+}
