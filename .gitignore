@@ -5,6 +5,7 @@
 .claude-plugin/*
 
 # FORCE Git to strictly track only the marketplace manifest file
+!.claude-plugin/plugin.json
 !.claude-plugin/marketplace.json
 
 # ========================================
